@@ -2,7 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 Focusing on [M.A.D](https://pages.awscloud.com/rs/112-TZM-766/images/MAD_modern_application_eBook.pdf) on AWS.
-- 📟 Invested in the development of the Internet of Things.
-- ☁️ Architecting at scale for the Cloud.
-- :octocat: Passionate about open-source.
+- ☁️ Focusing on [M.A.D](https://pages.awscloud.com/rs/112-TZM-766/images/MAD_modern_application_eBook.pdf) on AWS.
+- 📟 Passionate about the [IoT](https://en.wikipedia.org/wiki/Internet_of_things).
+- :octocat: Open-source enthusiast.

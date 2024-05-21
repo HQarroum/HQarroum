@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- ☁️ I'm currently focusing on [Generative AI](https://aws.amazon.com/generative-ai/technology/) applications at AWS.
+- ☁️ I'm currently focusing on [AI/ML](https://aws.amazon.com/generative-ai/technology/) applications at AWS.
 - 👨‍💻 Coming from a [Modern Application Development](https://pages.awscloud.com/rs/112-TZM-766/images/MAD_modern_application_eBook.pdf) engineering background.
 - 📟 Deeply passionate about all things [IoT](https://en.wikipedia.org/wiki/Internet_of_things) — check out the [awesome-iot](https://github.com/HQarroum/awesome-iot) repository!
-- 📫 I can be found on [StackOverflow](https://stackoverflow.com/users/1175633/halim-qarroum), [LinkedIn](https://www.linkedin.com/in/hqm/), and [My Personal Blog](https://halim.qarroum.com).
+- 📫 I can be found on [StackOverflow](https://stackoverflow.com/users/1175633/halim-qarroum), [LinkedIn](https://www.linkedin.com/in/hqm/), and my personal [Blog](https://halim.qarroum.com).

@@ -7,4 +7,4 @@
 - ☁️ I'm currently focusing on applied [AI/ML](https://aws.amazon.com/solutions/ai/) technologies at AWS.
 - 📟 Deeply passionate about all things [IoT](https://en.wikipedia.org/wiki/Internet_of_things) — check out the [awesome-iot](https://github.com/HQarroum/awesome-iot) repository!
 - 👨‍💻 Coming from a [Modern Application Development](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all) engineering background.
-- 📫 I can be found on [StackOverflow](https://stackoverflow.com/users/1175633/halim-qarroum), [LinkedIn](https://www.linkedin.com/in/hqm/), and [Medium](https://halim.qarroum.com).
+- 📫 You can also find me on [StackOverflow](https://stackoverflow.com/users/1175633/halim-qarroum), [LinkedIn](https://www.linkedin.com/in/hqm/), and [Medium](https://halim.qarroum.com).

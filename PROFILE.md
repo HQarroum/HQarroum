@@ -296,6 +296,14 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://d8p1x3h4xd5gq.cloudfront.net/59822132ca753d719145cc4c/public/6626991e8ad0b74be2ad00b1.png" width="60" />
       <br/><strong>Tailscale</strong>
     </td>
+    <td align="center">
+      <img src="https://styles.redditmedia.com/t5_75wel6/styles/communityIcon_bgkfioxyzxna1.jpg?format=pjpg&s=fa3e8325a9b53042a665b10577939635737fad79" width="100" />
+      <br/><strong>Zed</strong>
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="60" />
+      <br/><strong>Perplexity</strong>
+    </td>
   </tr>
 </table>
 <br />

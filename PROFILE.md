@@ -98,8 +98,11 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
   </tr>
 </table>
+<br />
 
 ### 🚀 DevOps
+
+> Platforms and tools I use in the process of deploying software.
 
 <table>
   <tr>
@@ -127,6 +130,10 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="60" />
       <br/><strong>ESLint</strong>
     </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNz_7VmDlr_YAAuYM55_M406JJcVJJ0s2Og&s" width="60" />
+      <br/><strong>AWS CDK</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -151,8 +158,11 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
   </tr>
 </table>
+<br />
 
-### 💾 Databases
+### 💾 Data
+
+> Datastores (SQL, NoSQL, Lakehouse architectures)  I use.
 
 <table>
   <tr>
@@ -180,6 +190,14 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" width="60" />
       <br/><strong>Pinecone</strong>
     </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/108903835?s=280&v=4" width="60" />
+      <br/><strong>LanceDB</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="60" />
+      <br/><strong>S3</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -204,8 +222,11 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
   </tr>
 </table>
+<br />
 
 ### 👀 Monitoring
+
+> Monitoring platforms that are helpful in most of my work.
 
 <table>
   <tr>
@@ -224,6 +245,56 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <td align="center">
       <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.svg" width="60" />
       <br/><strong>CloudWatch</strong>
+    </td>
+  </tr>
+</table>
+<br />
+
+### 🧰 Tools
+
+> Some of the tools I use as part of my workflow.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" />
+      <br/><strong>VSCode</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="60" />
+      <br/><strong>Chrome</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="60" />
+      <br/><strong>DataGrip</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" />
+      <br/><strong>Figma</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" />
+      <br/><strong>Git</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="60" />
+      <br/><strong>Illustrator</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/okta/okta-original.svg" width="60" />
+      <br/><strong>Okta</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" />
+      <br/><strong>Photoshop</strong>
+    </td>
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/373487/caddy.svg" width="60" />
+      <br/><strong>Caddy</strong>
+    </td>
+    <td align="center">
+      <img src="https://d8p1x3h4xd5gq.cloudfront.net/59822132ca753d719145cc4c/public/6626991e8ad0b74be2ad00b1.png" width="60" />
+      <br/><strong>Tailscale</strong>
     </td>
   </tr>
 </table>
@@ -257,6 +328,8 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" />
 </p>
 <br />
 

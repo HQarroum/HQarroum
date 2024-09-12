@@ -460,6 +460,46 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
+## 🤖 AI
+
+> AI platforms and tools I use to automate tasks.
+
+<table>
+  <tr>
+    <th><strong>OpenAI</strong></th>
+    <th><strong>Claude</strong></th>
+    <th><strong>Replicate</strong></th>
+    <th><strong>Segmind</strong></th>
+    <th><strong>Stable Diffusion</strong></th>
+    <th><strong>Ideogram</strong></th>
+    <th><strong>Bedrock</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://claude.ai/images/claude_app_icon.png" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/60410876?s=280&v=4" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-NdVM-t7W-9qAFmL-qEn0Y5CATPi4P5_sA&s" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://res.cloudinary.com/dsht8f3ff/image/upload/v1714833633/stabilityai_fiujad.png" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://10web.io/wp-content/uploads/2024/07/Ideogram.png" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2024-07-09%2008-55-49" width="70" />
+    </td>
+  </tr>
+</table>
+<br />
+
 ## 📦 Frameworks
 
 > A list of some of the software frameworks and libraries I've worked with.

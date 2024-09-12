@@ -120,7 +120,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" width="70" />
     </td>
     <td align="center">
-      <img src="https://i.namu.wiki/i/APkmO3vHUD6x7wWyqNNTi2R5kcmKa5ly-X8TdI9Nll_rANmwlIvd0yVkkpkaEZRBpzm45prgt8I8Muwb78twCR5zdFYkBL5m5g6qDwmgNRY.svg" width="70" />
+      <img src="https://media.licdn.com/dms/image/v2/D5612AQFoju57fpOnuA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694708289919?e=2147483647&v=beta&t=2uM_d4a1G7XDT2AfXXKNGtjFmgdtk_fILDl_u8luihU" width="70" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="70" />

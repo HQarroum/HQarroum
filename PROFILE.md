@@ -246,7 +246,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 
 ### 💾 Data
 
-> Datastores I am familiar with (SQL, NoSQL, Lakehouse architectures).
+> Datastores I am familiar with (SQL, NoSQL, Lakehouse architectures), and platforms part of my stack.
 
 <table>
   <tr>
@@ -291,6 +291,8 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Redis</strong></th>
     <th><strong>SQLite</strong></th>
     <th><strong>Algolia</strong></th>
+    <th><strong>Snowflake</strong></th>
+    <th><strong>Databricks</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -308,13 +310,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" width="60" />
     </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtsjtT26xLbvGO_eRAcJJ2drgv6wC9S7REQ&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="60" />
+    </td>
   </tr>
 </table>
 <br />
 
 ### 👀 Monitoring
 
-> Monitoring platforms that are helpful in most of my work.
+> Monitoring technologies that are helpful in my work.
 
 <table>
   <tr>
@@ -322,7 +330,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Chronograph</strong></th>
     <th><strong>Datadog</strong></th>
     <th><strong>CloudWatch</strong></th>
-    <th><strong>OpenTelemetry</strong></th>
+    <th><strong>Open<br />Telemetry</strong></th>
     <th><strong>Lumigo</strong></th>
     <th><strong>Sentry</strong></th>
   </tr>

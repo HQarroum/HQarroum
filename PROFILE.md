@@ -217,6 +217,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Checkov</strong></th>
     <th><strong>Bandit</strong></th>
     <th><strong>Gitleaks</strong></th>
+    <th><strong>SST</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -239,6 +240,9 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/90395851?s=200&v=4" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://repository-images.githubusercontent.com/79287859/e4fdd8f7-4301-46e3-a9b3-9863162daed2" width="60" />
     </td>
   </tr>
 </table>
@@ -934,7 +938,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Sharp</strong></th>
     <th><strong>Cypress</strong></th>
     <th><strong>Passport</strong></th>
-    <th><strong>PM2</strong></th>
+    <th><strong>Yolo</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -950,7 +954,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" width="60" />
+      <img src="https://repository-images.githubusercontent.com/264818686/c9bae91d-ad2d-491c-876f-b6948f1a7c66" width="60" />
     </td>
   </tr>
 </table>

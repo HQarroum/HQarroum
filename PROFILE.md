@@ -72,7 +72,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
-## 🏗️ Tech Stack
+## 👨‍💻 Tech Stack
 
 > Cloud platforms I'm using for deploying infrastructure and apps.
 
@@ -460,6 +460,38 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
+## 👨‍💻 OS
+
+> Operating systems I use for development and personal use.
+
+<table>
+  <tr>
+    <th><strong>macOS</strong></th>
+    <th><strong>Windows</strong></th>
+    <th><strong>Ubuntu</strong></th>
+    <th><strong>Debian</strong></th>
+    <th><strong>RHEL</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="70" />
+    </td>
+  </tr>
+</table>
+<br />
+
 ## 🤖 AI
 
 > AI platforms and tools I use to automate tasks.
@@ -473,6 +505,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Stable Diffusion</strong></th>
     <th><strong>Ideogram</strong></th>
     <th><strong>Bedrock</strong></th>
+    <th><strong>ElevenLabs</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -495,6 +528,57 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2024-07-09%2008-55-49" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Eleven_Labs.png" width="70" />
+    </td>
+  </tr>
+  <tr>
+    <th><strong>Perplexity</strong></th>
+    <th><strong>HeyGen</strong></th>
+    <th><strong>Fly.io</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://static.heygen.ai/heygen/asset/logo_hori_text_light_bg.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_roEVKvrlHxINFbknql40F7X5Ua20z-5QQ&s" width="70" />
+    </td>
+  </tr>
+</table>
+<br />
+
+## 🏗️ No/Low Code
+
+> Platforms I use to build applications and automations quickly.
+
+<table>
+  <tr>
+    <th><strong>Webflow</strong></th>
+    <th><strong>Make.com</strong></th>
+    <th><strong>Convertkit</strong></th>
+    <th><strong>Tally</strong></th>
+    <th><strong>Circle</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uzt8Yck3IH50oxpeNsjbjXNZ9WqOA78MQ&s" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/convertkit.svg" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://tally.so/images/logo_v2.png" width="70" />
+    </td>
+    <td align="center">
+      <img src="https://circle.so/apple-icon.png?8f5cfb4d4cded22a" width="70" />
     </td>
   </tr>
 </table>

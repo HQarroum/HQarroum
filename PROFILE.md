@@ -700,6 +700,9 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   <tr>
     <th><strong>YouTube</strong></th>
     <th><strong>LinkedIn</strong></th>
+    <th><strong>Dev.to</strong></th>
+    <th><strong>Hacker<br />News</strong></th>
+    <th><strong>Code<br />Academy</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -707,6 +710,15 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Font_Awesome_5_brands_hacker-news.svg/1024px-Font_Awesome_5_brands_hacker-news.svg.png?20181017221451" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Codecademy_icon.svg/2048px-Codecademy_icon.svg.png" width="60" />
     </td>
   </tr>
 </table>

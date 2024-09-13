@@ -3,13 +3,16 @@
 I'm **Halim**, passionate engineer with experience in software development, solutions architecture and software engineering management. In my career, I've had the opportunity to work with a variety of technologies, including :
 
 - **Edge-computing** systems that work at the network edge.
-- **AWS** (Serverless, Databases, Containers, Distributed messaging).
+- **AWS** (Serverless, Databases, Containers, Distributed architectures, AI services).
 - **Machine Learning** (Computer vision, NLP, MLOps).
-- Consumer **IoT** and Industrial IoT.
+- Consumer grade **IoT** and Industrial IoT.
 - **Generative AI** (Content creation, Structured Data Analysis, Long-form processing).
 - Advanced **Document Processing** — see [Project Lakechain](https://awslabs.github.io/project-lakechain/).
+- **Networking** (Tunneling, SD-WAN, Load balancing).
+- **Security** (Pentesting, Compliance, Reviews).
 - **Embedded** Systems (Microcontrollers, Linux, Android).
-- **Android** Development for phones and headless devices.
+- **Android** development for phones and headless devices.
+- **Web Development** of various modern web applications (mostly SPAs and static applications with [Vue.js](https://vuejs.org/) and [Astro](https://astro.build/)).
 
 ## 💬 Languages
 

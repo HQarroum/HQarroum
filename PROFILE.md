@@ -344,6 +344,62 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
+### 📨 Distributed messaging
+
+> Platforms and tools for exchanging high-throughput messages.
+
+<table>
+  <tr>
+    <th><strong>Kafka</strong></th>
+    <th><strong>RabbitMQ</strong></th>
+    <th><strong>Streams</strong></th>
+    <th><strong>SQS</strong></th>
+    <th><strong>SNS</strong></th>
+    <th><strong>EventBridge</strong></th>
+    <th><strong>Ably</strong></th>
+    <th><strong>NATS</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://svgmix.com/uploads/1eb335-aws-sqs.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/aws-sns-80t5m6hy89y74i2ta3yrz3.png/aws-sns-y7pv8d8lqjroqxkucbnv.png?_a=DAJFJtWIZAA0" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://images.ctfassets.net/ee3ypdtck0rk/583mSrIM95zgnOXR3x1B1X/899978ee3234e4911636f15f1bcceb90/download.png?w=1000&h=1000&q=80&fm=png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://files.ably.io/ghost/prod/2021/06/badge-ably-col-pos-rgb-square-512s-1.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/NATS-logo.png" width="60" />
+    </td>
+  </tr>
+  <tr>
+    <th><strong>Pub/Sub</strong></th>
+    <th><strong>Pubnub</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pubnub-logo.png" width="60" />
+    </td>
+  </tr>
+</table>
+<br />
+
 ### 🧰 Tools
 
 > Some of the tools I use as part of my workflow.
@@ -460,24 +516,22 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
-## 👨‍💻 OS
+### 👨‍💻 OS
 
 > Operating systems I use for development and personal use.
 
 <table>
   <tr>
     <th><strong>macOS</strong></th>
-    <th><strong>Windows</strong></th>
     <th><strong>Ubuntu</strong></th>
     <th><strong>Debian</strong></th>
     <th><strong>RHEL</strong></th>
+    <th><strong>Windows</strong></th>
+    <th><strong>Windows<br />Server</strong></th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="60" />
@@ -488,11 +542,17 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="60" />
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/C5612AQFy7_M8vRC0sQ/article-cover_image-shrink_720_1280/0/1641546998254?e=2147483647&v=beta&t=Ju5nF14FYtFj3GoXlnrhgqvWHy0sj56dvAZWckNeXXM" width="60" />
+    </td>
   </tr>
 </table>
 <br />
 
-## 🤖 AI
+### 🤖 AI
 
 > AI platforms and tools I use to automate tasks.
 
@@ -552,7 +612,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
-## 🏗️ No/Low Code
+### 🏗️ No/Low Code
 
 > Platforms I use to build applications and automations quickly.
 
@@ -588,7 +648,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
-## 📦 Frameworks
+### 📦 Frameworks
 
 > A list of some of the software frameworks and libraries I've worked with.
 

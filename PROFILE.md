@@ -615,6 +615,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Fly.io</strong></th>
     <th><strong>Roboflow</strong></th>
     <th><strong>Fal.ai</strong></th>
+    <th><strong>Ollama</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -631,6 +632,9 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/74778219?s=200&v=4" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="60" />
     </td>
   </tr>
 </table>

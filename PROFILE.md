@@ -81,19 +81,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60" />
       <br/><strong>AWS</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="60" />
       <br/><strong>Google Cloud</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" />
       <br/><strong>Cloudflare</strong>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="60" />
       <br/><strong>Supabase</strong>
     </td>
   </tr>
@@ -114,19 +114,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" width="70" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D5612AQFoju57fpOnuA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694708289919?e=2147483647&v=beta&t=2uM_d4a1G7XDT2AfXXKNGtjFmgdtk_fILDl_u8luihU" width="70" />
+      <img src="https://media.licdn.com/dms/image/v2/D5612AQFoju57fpOnuA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694708289919?e=2147483647&v=beta&t=2uM_d4a1G7XDT2AfXXKNGtjFmgdtk_fILDl_u8luihU" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="60" />
     </td>
   </tr>
 </table>
@@ -149,28 +149,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNz_7VmDlr_YAAuYM55_M406JJcVJJ0s2Og&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNz_7VmDlr_YAAuYM55_M406JJcVJJ0s2Og&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/packer/packer-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/packer/packer-original.svg" width="60" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="80" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nomad/nomad-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nomad/nomad-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codecov/codecov-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codecov/codecov-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="60" />
     </td>
   </tr>
   <tr>
@@ -185,28 +185,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://esbuild.github.io/favicon.svg" width="70" />
+      <img src="https://esbuild.github.io/favicon.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prettier_icon_130445.png" width="70" />
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prettier_icon_130445.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHe6UpHMUvxOIQEbeXSz3lF8HdKiBwWtKMw&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHe6UpHMUvxOIQEbeXSz3lF8HdKiBwWtKMw&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64@5x.png" width="70" />
+      <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Developer-Tools/64/Arch_AWS-CodePipeline_64@5x.png" width="60" />
     </td>
   </tr>
   <tr>
@@ -220,25 +220,25 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="70" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/23692104?v=4" width="70" />
+      <img src="https://avatars.githubusercontent.com/u/23692104?v=4" width="60" />
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/103283236?v=4" width="70" />
+      <img src="https://avatars.githubusercontent.com/u/103283236?v=4" width="60" />
     </td>
     <td align="center">
-      <img src="https://github.com/lycheeverse/lychee/raw/master/assets/logo.svg" width="70" />
+      <img src="https://github.com/lycheeverse/lychee/raw/master/assets/logo.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/web/images/checkov_blue_logo.png" width="70" />
+      <img src="https://raw.githubusercontent.com/bridgecrewio/checkov/main/docs/web/images/checkov_blue_logo.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="70" />
+      <img src="https://raw.githubusercontent.com/pycqa/bandit/main/logo/logotype-sm.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/90395851?s=200&v=4" width="70" />
+      <img src="https://avatars.githubusercontent.com/u/90395851?s=200&v=4" width="60" />
     </td>
   </tr>
 </table>
@@ -261,28 +261,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/influxdb/influxdb-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="60" />
     </td>
     <td align="center">
       <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" width="50" />
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/108903835?s=280&v=4" width="70" />
+      <img src="https://avatars.githubusercontent.com/u/108903835?s=280&v=4" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="70" />
+      <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" width="60" />
     </td>
   </tr>
   <tr>
@@ -294,19 +294,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" width="60" />
     </td>
   </tr>
 </table>
@@ -326,19 +326,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://static-00.iconduck.com/assets.00/influxdb-icon-2017x2048-38lz5101.png" width="70" />
+      <img src="https://static-00.iconduck.com/assets.00/influxdb-icon-2017x2048-38lz5101.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png?auto=format&fit=max&w=847&dpr=2" width="70" />
+      <img src="https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png?auto=format&fit=max&w=847&dpr=2" width="60" />
     </td>
     <td align="center">
-      <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.svg" width="70" />
+      <img src="https://cloud-icons.onemodel.app/aws/Architecture-Service-Icons_01312023/Arch_Management-Governance/64/Arch_Amazon-CloudWatch_64.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8G-Fq64ighqF2GMGVmOo0hDmdI1KUEzz9A&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8G-Fq64ighqF2GMGVmOo0hDmdI1KUEzz9A&s" width="60" />
     </td>
   </tr>
 </table>
@@ -361,28 +361,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/okta/okta-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/okta/okta-original.svg" width="60" />
     </td>
   </tr>
   <tr>
@@ -397,28 +397,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/373487/caddy.svg" width="70" />
+      <img src="https://www.svgrepo.com/show/373487/caddy.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://d8p1x3h4xd5gq.cloudfront.net/59822132ca753d719145cc4c/public/6626991e8ad0b74be2ad00b1.png" width="70" />
+      <img src="https://d8p1x3h4xd5gq.cloudfront.net/59822132ca753d719145cc4c/public/6626991e8ad0b74be2ad00b1.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://styles.redditmedia.com/t5_75wel6/styles/communityIcon_bgkfioxyzxna1.jpg?format=pjpg&s=fa3e8325a9b53042a665b10577939635737fad79" width="70" />
+      <img src="https://styles.redditmedia.com/t5_75wel6/styles/communityIcon_bgkfioxyzxna1.jpg?format=pjpg&s=fa3e8325a9b53042a665b10577939635737fad79" width="60" />
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="70" />
+      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://brew.sh/assets/img/homebrew-256x256.png" width="70" />
+      <img src="https://brew.sh/assets/img/homebrew-256x256.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="70" />
+      <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://claude.ai/images/claude_app_icon.png" width="70" />
+      <img src="https://claude.ai/images/claude_app_icon.png" width="60" />
     </td>
   </tr>
   <tr>
@@ -433,28 +433,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/1200px-Arc_%28browser%29_logo.svg.png" width="70" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/1200px-Arc_%28browser%29_logo.svg.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="70" />
+      <img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://framerusercontent.com/images/dCpL66Z3tR34LS428x9UcSYyj9c.png?scale-down-to=512" width="70" />
+      <img src="https://framerusercontent.com/images/dCpL66Z3tR34LS428x9UcSYyj9c.png?scale-down-to=512" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" width="70" />
+      <img src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_CH83V3XvuMb1Ace0mpytuaUVtr91BaP7Q&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_CH83V3XvuMb1Ace0mpytuaUVtr91BaP7Q&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://brightintosh.de/brightintosh_256.png" width="70" />
+      <img src="https://brightintosh.de/brightintosh_256.png" width="60" />
     </td>
   </tr>
 </table>
@@ -474,19 +474,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" width="60" />
     </td>
   </tr>
 </table>
@@ -509,28 +509,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://claude.ai/images/claude_app_icon.png" width="70" />
+      <img src="https://claude.ai/images/claude_app_icon.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/60410876?s=280&v=4" width="70" />
+      <img src="https://avatars.githubusercontent.com/u/60410876?s=280&v=4" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-NdVM-t7W-9qAFmL-qEn0Y5CATPi4P5_sA&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-NdVM-t7W-9qAFmL-qEn0Y5CATPi4P5_sA&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://res.cloudinary.com/dsht8f3ff/image/upload/v1714833633/stabilityai_fiujad.png" width="70" />
+      <img src="https://res.cloudinary.com/dsht8f3ff/image/upload/v1714833633/stabilityai_fiujad.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://10web.io/wp-content/uploads/2024/07/Ideogram.png" width="70" />
+      <img src="https://10web.io/wp-content/uploads/2024/07/Ideogram.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2024-07-09%2008-55-49" width="70" />
+      <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2024-07-09%2008-55-49" width="60" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Eleven_Labs.png" width="70" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Eleven_Labs.png" width="60" />
     </td>
   </tr>
   <tr>
@@ -540,13 +540,13 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="70" />
+      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://static.heygen.ai/heygen/asset/logo_hori_text_light_bg.svg" width="70" />
+      <img src="https://static.heygen.ai/heygen/asset/logo_hori_text_light_bg.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_roEVKvrlHxINFbknql40F7X5Ua20z-5QQ&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_roEVKvrlHxINFbknql40F7X5Ua20z-5QQ&s" width="60" />
     </td>
   </tr>
 </table>
@@ -566,19 +566,19 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webflow/webflow-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uzt8Yck3IH50oxpeNsjbjXNZ9WqOA78MQ&s" width="70" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uzt8Yck3IH50oxpeNsjbjXNZ9WqOA78MQ&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.worldvectorlogo.com/logos/convertkit.svg" width="70" />
+      <img src="https://cdn.worldvectorlogo.com/logos/convertkit.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://tally.so/images/logo_v2.png" width="70" />
+      <img src="https://tally.so/images/logo_v2.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://circle.so/apple-icon.png?8f5cfb4d4cded22a" width="70" />
+      <img src="https://circle.so/apple-icon.png?8f5cfb4d4cded22a" width="60" />
     </td>
   </tr>
 </table>
@@ -601,28 +601,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppeteer/puppeteer-original.svg" width="60" />
     </td>
   </tr>
   <tr>
@@ -637,28 +637,28 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://pbs.twimg.com/media/FyremPmWwAU9ldQ.jpg" width="70" />
+      <img src="https://pbs.twimg.com/media/FyremPmWwAU9ldQ.jpg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="60" />
     </td>
   </tr>
   <tr>
@@ -673,40 +673,72 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lodash/lodash-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" width="70" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/2560px-Nextjs-logo.svg.png" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png" width="70" />
+      <img src="https://seeklogo.com/images/H/hono-logo-85A5D1206D-seeklogo.com.png" width="60" />
     </td>
   </tr>
   <tr>
     <th><strong>Symfony</strong></th>
     <th><strong>Express</strong></th>
+    <th><strong>Ansible</strong></th>
+    <th><strong>cURL</strong></th>
+    <th><strong>Protobuf</strong></th>
+    <th><strong>gRPC</strong></th>
+    <th><strong>Apollo</strong></th>
+    <th><strong>Electron</strong></th>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="70" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://curl.se/logo/curl-symbol-transparent.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://media.licdn.com/dms/image/D5610AQGfek0KarrH6w/image-shrink_800/0/1708365668850?e=2147483647&v=beta&t=81u28ECHDRCR_bRk03x4uolqoTaG-f308mHaox8K1rk" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://grpc.io/img/logos/grpc-icon-color.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" width="60" />
+    </td>
+  </tr>
+  <tr>
+    <th><strong>Flutter</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="60" />
     </td>
   </tr>
 </table>

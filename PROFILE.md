@@ -597,6 +597,8 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Perplexity</strong></th>
     <th><strong>HeyGen</strong></th>
     <th><strong>Fly.io</strong></th>
+    <th><strong>Roboflow</strong></th>
+    <th><strong>Fal.ai</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -607,6 +609,12 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD_roEVKvrlHxINFbknql40F7X5Ua20z-5QQ&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTTtGcu3CULhh1-vzeEZfq23gCXTVStR1bsg&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/74778219?s=200&v=4" width="60" />
     </td>
   </tr>
 </table>
@@ -799,10 +807,18 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <th><strong>Flutter</strong></th>
+    <th><strong>Terraform</strong></th>
+    <th><strong>AWS CDK</strong></th>
   </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNz_7VmDlr_YAAuYM55_M406JJcVJJ0s2Og&s" width="60" />
     </td>
   </tr>
 </table>

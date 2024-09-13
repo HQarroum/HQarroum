@@ -809,6 +809,11 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Flutter</strong></th>
     <th><strong>Terraform</strong></th>
     <th><strong>AWS CDK</strong></th>
+    <th><strong>Zod</strong></th>
+    <th><strong>Pydantic</strong></th>
+    <th><strong>Requests</strong></th>
+    <th><strong>Scipy</strong></th>
+    <th><strong>Tensorflow</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -819,6 +824,21 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWNz_7VmDlr_YAAuYM55_M406JJcVJJ0s2Og&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="60" />
     </td>
   </tr>
 </table>

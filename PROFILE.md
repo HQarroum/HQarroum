@@ -563,6 +563,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Convertkit</strong></th>
     <th><strong>Tally</strong></th>
     <th><strong>Circle</strong></th>
+    <th><strong>Notion</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -579,6 +580,9 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://circle.so/apple-icon.png?8f5cfb4d4cded22a" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" />
     </td>
   </tr>
 </table>

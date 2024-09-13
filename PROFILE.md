@@ -518,7 +518,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 
 ### 👨‍💻 OS
 
-> Operating systems I use for development and personal use.
+> Operating systems I use for professional and personal use.
 
 <table>
   <tr>
@@ -656,9 +656,65 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
+### 🎓 Learning
+
+> Platforms I use for learning and upskilling.
+
+<table>
+  <tr>
+    <th><strong>Udemy</strong></th>
+    <th><strong>Coursera</strong></th>
+    <th><strong>Whizlabs</strong></th>
+    <th><strong>Cloud Guru</strong></th>
+    <th><strong>Medium</strong></th>
+    <th><strong>Brilliant</strong></th>
+    <th><strong>Audible</strong></th>
+    <th><strong>Apple<br />Podcasts</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdp0tz-waCzuuEOimdtSw5qfHF-HiqQBXUKA&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNwSpNKwTFPQjJlJp4F0VzUlv2g03dfkdyQQ&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://media.whizlabs.com/website/2019/03/07/meta_image.jpg?60b50ff2a131f" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUt2MA7Lv88gfEuXv5Ezo-cNo0WcCRPGY7Q&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ79Rxc6O5gkkx_aaGq2KuzKJUpVFgAKEJNIg&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Brilliant_%28website%29_Logo.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://play-lh.googleusercontent.com/-x0uIYaNWONIRefvL7u4pi75rh4fi5441J0EelEpoOaGRZbAPdhRqKxBu-cvvCV5dw" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Podcasts_%28iOS%29.svg/480px-Podcasts_%28iOS%29.svg.png" width="60" />
+    </td>
+  </tr>
+  <tr>
+    <th><strong>YouTube</strong></th>
+    <th><strong>LinkedIn</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" />
+    </td>
+  </tr>
+</table>
+<br />
+
 ### 📦 Frameworks
 
-> A list of some of the software frameworks and libraries I've worked with.
+> A list of some of the software frameworks and libraries part of my stack.
 
 <table>
   <tr>

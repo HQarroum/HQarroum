@@ -323,6 +323,8 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Datadog</strong></th>
     <th><strong>CloudWatch</strong></th>
     <th><strong>OpenTelemetry</strong></th>
+    <th><strong>Lumigo</strong></th>
+    <th><strong>Sentry</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -339,6 +341,12 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf8G-Fq64ighqF2GMGVmOo0hDmdI1KUEzz9A&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/38886022?s=280&v=4" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://avatars.slack-edge.com/2023-08-11/5742750680529_887c0a192e074f7cf3e1_512.png" width="60" />
     </td>
   </tr>
 </table>
@@ -907,6 +915,30 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="60" />
+    </td>
+  </tr>
+  <tr>
+    <th><strong>tRPC</strong></th>
+    <th><strong>Sharp</strong></th>
+    <th><strong>Cypress</strong></th>
+    <th><strong>Passport</strong></th>
+    <th><strong>PM2</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF4Kwj5XlGPFvpu4wSrFNs6Py0CrVH1ZWIsQ&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://seeklogo.com/images/P/passport-logo-16D89B2F37-seeklogo.com.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" width="60" />
     </td>
   </tr>
 </table>

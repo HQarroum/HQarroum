@@ -16,7 +16,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 
 ## 💬 Languages
 
-> Those are the programming languages which I have used across my career.
+> Programming languages I have used across my career.
 
 <br />
 <table>
@@ -137,7 +137,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 
 ### 🚀 DevOps
 
-> Platforms and tools I use in the process of deploying and validating software.
+> Platforms and tools I use for deploying and assessing software.
 
 <table>
   <tr>
@@ -253,7 +253,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 
 ### 💾 Data
 
-> Datastores I am familiar with (SQL, NoSQL, Lakehouse architectures), and platforms part of my stack.
+> Datastores and platforms I am familiar with (SQL, NoSQL, Datalakes, Lakehouse architectures).
 
 <table>
   <tr>
@@ -685,7 +685,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 
 ### 🎓 Learning
 
-> Platforms I use for learning and upskilling.
+> Platforms I use for learning new things.
 
 <table>
   <tr>

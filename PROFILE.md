@@ -762,7 +762,6 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Rollup</strong></th>
     <th><strong>Turbo Repo</strong></th>
     <th><strong>Bazel</strong></th>
-    <th><strong>NPM</strong></th>
     <th><strong>Gradle</strong></th>
     <th><strong>Cargo</strong></th>
   </tr>
@@ -781,9 +780,6 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://blog.bazel.build/images/bazel-icon.svg" width="60" />
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" />
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" width="60" />

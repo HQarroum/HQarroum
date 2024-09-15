@@ -751,6 +751,50 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 </table>
 <br />
 
+### ⚡ Build Tools
+
+> How I build apps.
+
+<table>
+  <tr>
+    <th><strong>Lerna</strong></th>
+    <th><strong>Nx</strong></th>
+    <th><strong>Rollup</strong></th>
+    <th><strong>Turbo Repo</strong></th>
+    <th><strong>Bazel</strong></th>
+    <th><strong>NPM</strong></th>
+    <th><strong>Gradle</strong></th>
+    <th><strong>Cargo</strong></th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHe6UpHMUvxOIQEbeXSz3lF8HdKiBwWtKMw&s" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://avatars.githubusercontent.com/u/23692104?v=4" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-plain.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://blog.bazel.build/images/bazel-icon.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://doc.rust-lang.org/cargo/images/Cargo-Logo-Small.png" width="60" />
+    </td>
+  </tr>
+</table>
+<br />
+
 ### 📦 Frameworks
 
 > A list of some of the software frameworks and libraries part of my stack.

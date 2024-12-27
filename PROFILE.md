@@ -789,15 +789,3 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
   </tr>
 </table>
-<br />
-
-## :octocat: GitHub
-
-<br />
-<p align="center">
-  <img src="https://stats.quira.sh/HQarroum/github?theme=light" align="center" width="360" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://stats.quira.sh/HQarroum/topics-over-time?theme=light" align="center" width="400" />
-  <br /><br />
-  <img src="https://stats.quira.sh/HQarroum/languages-over-time?theme=light" align="center" width="400" />
-</p>

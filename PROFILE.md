@@ -613,7 +613,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGQ_Q2qNoQaT-xrNXdmgM4dI=/aws-bedrock-connector-2023-01-04%2000-00-00-2024-07-09%2008-55-49" width="60" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Eleven_Labs.png" width="60" />
+      <img src="https://eleven-public-cdn.elevenlabs.io/payloadcms/9trrmnj2sj8-logo-logo.svg" width="60" />
     </td>
   </tr>
   <tr>

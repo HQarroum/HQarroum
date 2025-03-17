@@ -485,7 +485,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://styles.redditmedia.com/t5_75wel6/styles/communityIcon_bgkfioxyzxna1.jpg?format=pjpg&s=fa3e8325a9b53042a665b10577939635737fad79" width="60" />
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="60" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFSv1lxsEwowysGSVpPBM_VMwocDGqxqRyg&s" width="60" />
     </td>
     <td align="center">
       <img src="https://brew.sh/assets/img/homebrew-256x256.png" width="60" />
@@ -626,7 +626,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
   </tr>
   <tr>
     <td align="center">
-      <img src="https://seeklogo.com/images/P/perplexity-ai-logo-13120A0AAE-seeklogo.com.png" width="60" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdFSv1lxsEwowysGSVpPBM_VMwocDGqxqRyg&s" width="60" />
     </td>
     <td align="center">
       <img src="https://static.heygen.ai/heygen/asset/logo_hori_text_light_bg.svg" width="60" />

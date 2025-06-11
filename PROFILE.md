@@ -12,7 +12,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 - **Security** (Pentesting, Compliance, Reviews).
 - **Embedded** Systems (Microcontrollers, Linux, Android).
 - **Android** development for phones and headless devices.
-- **Web Development** of various modern web applications (mostly SPAs and static applications with [Vue.js](https://vuejs.org/) and [Astro](https://astro.build/)).
+- **Web Development** of various modern web applications (mostly SPAs and static applications with [React](https://react.dev/), [Shadcn](https://ui.shadcn.com/), and [Astro](https://astro.build/)).
 
 ## 💬 Languages
 
@@ -283,7 +283,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="60" />
     </td>
     <td align="center">
-      <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" width="50" />
+      <img src="https://apn-portal.my.salesforce.com/servlet/servlet.ImageServer?id=0158W000009dd27QAA&oid=00DE0000000c48tMAA" width="50" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/108903835?s=280&v=4" width="60" />
@@ -497,7 +497,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://claude.ai/images/claude_app_icon.png" width="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1200px-Claude_AI_logo.svg.png" width="60" />
     </td>
   </tr>
   <tr>
@@ -585,7 +585,6 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Claude</strong></th>
     <th><strong>Replicate</strong></th>
     <th><strong>Segmind</strong></th>
-    <th><strong>Stable Diffusion</strong></th>
     <th><strong>Ideogram</strong></th>
     <th><strong>Bedrock</strong></th>
     <th><strong>ElevenLabs</strong></th>
@@ -602,9 +601,6 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-NdVM-t7W-9qAFmL-qEn0Y5CATPi4P5_sA&s" width="60" />
-    </td>
-    <td align="center">
-      <img src="https://res.cloudinary.com/dsht8f3ff/image/upload/v1714833633/stabilityai_fiujad.png" width="60" />
     </td>
     <td align="center">
       <img src="https://10web.io/wp-content/uploads/2024/07/Ideogram.png" width="60" />

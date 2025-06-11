@@ -6,7 +6,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
 - **AWS** (Serverless, Databases, Containers, Distributed architectures, AI services).
 - **Machine Learning** (Computer vision, NLP, MLOps).
 - Consumer grade **IoT** and Industrial IoT.
-- **Generative AI** (Content creation, Structured Data Analysis, Long-form processing).
+- **Generative AI** (Agentic networks, Real-Time AI, Structured Data Analysis, Long-form processing).
 - Advanced **Document Processing** — see [Project Lakechain](https://awslabs.github.io/project-lakechain/).
 - **Networking** (Tunneling, SD-WAN, Load balancing).
 - **Security** (Pentesting, Compliance, Reviews).
@@ -300,6 +300,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     <th><strong>Algolia</strong></th>
     <th><strong>Snowflake</strong></th>
     <th><strong>Databricks</strong></th>
+    <th><strong>KuzuDB</strong></th>
   </tr>
   <tr>
     <td align="center">
@@ -322,6 +323,9 @@ I'm **Halim**, passionate engineer with experience in software development, solu
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="60" />
+    </td>
+    <td align="center">
+      <img src="https://repository-images.githubusercontent.com/298763623/237265b7-d718-43ef-bf77-c2dae09fd03c" width="60" />
     </td>
   </tr>
 </table>
@@ -594,7 +598,7 @@ I'm **Halim**, passionate engineer with experience in software development, solu
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMdM9MEQ0ExL1PmInT3U5I8v63YXBEdoIT0Q&s" width="60" />
     </td>
     <td align="center">
-      <img src="https://claude.ai/images/claude_app_icon.png" width="60" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Claude_AI_logo.svg/1200px-Claude_AI_logo.svg.png" width="60" />
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/u/60410876?s=280&v=4" width="60" />
